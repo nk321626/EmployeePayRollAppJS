@@ -6,7 +6,7 @@ html body {
 
   .header {
     padding: 15px 0;
-    background-color: #81a59c;
+    background-color: #9f81a5;
   }
 
   .header-content {
@@ -14,7 +14,7 @@ html body {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    border: 0px solid rgb(96, 131, 96);
+    border: 0px solid rgb(125, 131, 96);
   }
 
   .logo-content {
@@ -33,12 +33,12 @@ html body {
     font: normal normal bold 20px/25px Montserrat;
     font-family: "Montserrat", sans-serif;
     letter-spacing: 0px;
-    color: #467244;
+    color: #544472f5;
     text-transform: capitalize;
   }
 
   .emp-payroll {
-    color: #42515f;
+    color: #425f5fe3;
   }
 
   * {

@@ -39,7 +39,7 @@ const createInnerHtml = () => {
 }
 const createEmployeePayrollJSON = () => {
     let empPayrollListLocal = [{
-            _name: 'MSDhoni',
+            _name: 'Niraj',
             _gender: 'Male',
             _department: [
                 'Engineering',
@@ -52,7 +52,7 @@ const createEmployeePayrollJSON = () => {
             _profilePic: "/assets/M1.png"
         },
         {
-            _name: 'MitaliRaj',
+            _name: 'Rani',
             _gender: 'Female',
             _department: [
 
